@@ -1,4 +1,3 @@
-Cython
 libffi-dev
 libssl-dev
 libxslt1-dev
