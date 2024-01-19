@@ -1,2 +1,4 @@
 libxslt1-dev
-Cython
+Cython==3.0.8
+libffi-dev
+libssl-dev
