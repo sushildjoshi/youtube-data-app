@@ -1,3 +1,5 @@
 libffi-dev
 libssl-dev
 libxslt1-dev
+setuptools
+wheel
