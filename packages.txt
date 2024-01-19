@@ -1,5 +1,7 @@
-update
-libxslt1-dev
-Cython
-libffi-dev
-libssl-dev
+preinstall:
+  - update
+packages:
+  - Cython
+  - libffi-dev
+  - libssl-dev
+  - libxslt1-dev
